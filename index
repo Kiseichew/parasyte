@@ -1,5 +1,5 @@
 {
-  "title": "<manga title>",
+  "title": "Parasyte Reversi",
   "description": "<manga description>",
   "artist": "<manga artist>",
   "author": "<manga author>",
@@ -13,13 +13,70 @@
       },
       "last_updated": "1616368746"
     },
-     },
-    "2": {
-      "title": "Usa Usa Joshiryoku Pancakes",
-      "volume": "1",
+    "<chapter number>": {
+      "title": "<chapter name>",
+      "volume": "<volume number>",
       "groups": {
-        "Coffee Break": "/proxy/api/imgur/chapter/eCsJAo3/"
+        "<group name>": "/proxy/api/imgur/chapter/<imgur id>/"
       },
-      "last_updated": "1621569600"
+      "last_updated": "1616368746"
+    },
+    "<chapter number>": {
+      "title": "<chapter name>",
+      "volume": "<volume number>",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/<imgur id>/"
+      },
+      "last_updated": "1616368746"
+    },
+    "<chapter number>": {
+      "title": "<chapter name>",
+      "volume": "<volume number>",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/<imgur id>/"
+      },
+      "last_updated": "1616368746"
+    },
+    "<chapter number>": {
+      "title": "<chapter name>",
+      "volume": "<volume number>",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/<imgur id>/"
+      },
+      "last_updated": "1616368746"
+    },
+    "<chapter number>": {
+      "title": "<chapter name>",
+      "volume": "<volume number>",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/<imgur id>/"
+      },
+      "last_updated": "1616368746"
+    },
+    "<chapter number>": {
+      "title": "<chapter name>",
+      "volume": "<volume number>",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/<imgur id>/"
+      },
+      "last_updated": "1616368746"
+    },
+    "<chapter number>": {
+      "title": "<chapter name>",
+      "volume": "<volume number>",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/<imgur id>/"
+      },
+      "last_updated": "1616368746"
+    },
+    "<chapter number>": {
+      "title": "<chapter name>",
+      "volume": "<volume number>",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/<imgur id>/"
+      },
+      "last_updated": "1616368746"
+    },
+    
   }
 }
