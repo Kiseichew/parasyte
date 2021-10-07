@@ -1,82 +1,84 @@
 {
   "title": "Parasyte Reversi",
-  "description": "<manga description>",
+  "description": "manga description",
   "artist": "Ohta Moare",
   "author": "Ohta Moare",
   "cover": "https://uploads.mangadex.org/covers/5e88cffd-2070-47e1-85eb-f72b06a4008f/223d7c9d-e8eb-4394-b0b0-76ca7e8273a0.png",
   "chapters": {
     "1": {
-      "title": "<chapter name>",
+      "title": "chapter name",
       "volume": "1",
       "groups": {
-        "r/Parasyte": "/proxy/api/imgur/chapter/<imgur id>/"
+        "r/Parasyte": "/proxy/api/imgur/chapter/imgur id/"
       },
       "last_updated": "1616368746"
     },
     "2": {
-      "title": "<chapter name>",
+      "title": "chapter name",
       "volume": "1",
       "groups": {
-        "r/Parasyte": "/proxy/api/imgur/chapter/<imgur id>/"
+        "r/Parasyte": "/proxy/api/imgur/chapter/imgur id/"
       },
       "last_updated": "1616368746"
     },
     "3": {
-      "title": "<chapter name>",
+      "title": "chapter name",
       "volume": "1",
       "groups": {
-        "r/Parasyte": "/proxy/api/imgur/chapter/<imgur id>/"
+        "r/Parasyte": "/proxy/api/imgur/chapter/imgur id/"
       },
       "last_updated": "1616368746"
     },
     "4": {
-      "title": "<chapter name>",
+      "title": "chapter name",
       "volume": "1",
       "groups": {
-        "r/Parasyte": "/proxy/api/imgur/chapter/<imgur id>/"
+        "r/Parasyte": "/proxy/api/imgur/chapter/imgur id/"
       },
       "last_updated": "1616368746"
     },
     "5": {
-      "title": "<chapter name>",
+      "title": "chapter name",
       "volume": "1",
       "groups": {
-        "r/Parasyte": "/proxy/api/imgur/chapter/<imgur id>/"
+        "r/Parasyte": "/proxy/api/imgur/chapter/imgur id/"
       },
       "last_updated": "1616368746"
     },
     "6": {
-      "title": "<chapter name>",
+      "title": "chapter name",
       "volume": "1",
       "groups": {
-        "r/Parasyte": "/proxy/api/imgur/chapter/<imgur id>/"
+        "r/Parasyte": "/proxy/api/imgur/chapter/imgur id/"
       },
       "last_updated": "1616368746"
     },
     "7": {
-      "title": "<chapter name>",
+      "title": "chapter name",
       "volume": "1",
       "groups": {
-        "r/Parasyte": "/proxy/api/imgur/chapter/<imgur id>/"
+        "r/Parasyte": "/proxy/api/imgur/chapter/imgur id/"
       },
       "last_updated": "1616368746"
     },
     "8": {
-      "title": "<chapter name>",
+      "title": "chapter name",
       "volume": "1",
       "groups": {
-        "r/Parasyte": "/proxy/api/imgur/chapter/<imgur id>/"
+        "r/Parasyte": "/proxy/api/imgur/chapter/imgur id/"
       },
       "last_updated": "1616368746"
     },
     "9": {
-      "title": "<chapter name>",
+      "title": "chapter name",
       "volume": "2",
       "groups": {
-        "r/Parasyte": "/proxy/api/imgur/chapter/<imgur id>/"
+        "r/Parasyte": "/proxy/api/imgur/chapter/imgur id/"
       },
       "last_updated": "1616368746"
     }
     
   }
 }
+
+
