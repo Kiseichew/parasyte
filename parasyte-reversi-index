@@ -73,7 +73,7 @@
       "title": "Afterglow",
       "volume": "2",
       "groups": {
-        "r/Parasyte": "https://mangadex.org/chapter/77ed1be7-decf-41d8-aa25-917f42a25066"
+        "r/Parasyte": ["https://mangadex.org/chapter/77ed1be7-decf-41d8-aa25-917f42a25066"]
       },
       "last_updated": "0"
     },
