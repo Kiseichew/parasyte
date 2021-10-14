@@ -1,0 +1,25 @@
+{
+  "title": "mangatitle",
+  "description": "mangadescription",
+  "artist": "mangaartist",
+  "author": "mangaauthor",
+  "cover": "mangacoverurl.jpg",
+  "chapters": {
+    "chapternumber": {
+      "title": "chaptername",
+      "volume": "volumenumber",
+      "groups": {
+        "r/Parasyte": "/proxy/api/imgur/chapter/imgurid/"
+      },
+      "last_updated": "0"
+    },
+    "chapternumber": {
+      "title": "chaptername",
+      "volume": "volumenumber",
+      "groups": {
+        "r/Parasyte": "/proxy/api/imgur/chapter/imgurid/"
+      },
+      "last_updated": "0"
+    }
+  }
+}
