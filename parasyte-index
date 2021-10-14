@@ -6,20 +6,516 @@
   "cover": "https://i.imgur.com/RLmRvlX.png",
   "chapters": {
     "1": {
-      "title": "The Chosen Boy",
+      "title": "titlefield",
       "volume": "1",
       "groups": {
-        "none": "/proxy/api/imgur/chapter/Of9i0yR/"
+        "none": "/proxy/api/imgur/chapter/imgfield/"
         }, 
-      "last_updated": "1633741549"
+      "last_updated": "795960041"
     },
     "2": {
-      "title": "The Weakling",
+      "title": "titlefield",
       "volume": "1",
       "groups": {
-        "none": "/proxy/api/imgur/chapter/lVJilJg/"
-      },
-      "last_updated": "1634176743"
+        "none": "/proxy/api/imgur/chapter/imgfield/"
+        }, 
+      "last_updated": "795960041"
+    },
+    "3": {
+      "title": "titlefield",
+      "volume": "1",
+      "groups": {
+        "none": "/proxy/api/imgur/chapter/imgfield/"
+        }, 
+      "last_updated": "795960041"
+    },
+    "4": {
+      "title": "titlefield",
+      "volume": "1",
+      "groups": {
+        "none": "/proxy/api/imgur/chapter/imgfield/"
+        }, 
+      "last_updated": "795960041"
+    },
+    "5": {
+      "title": "titlefield",
+      "volume": "1",
+      "groups": {
+        "none": "/proxy/api/imgur/chapter/imgfield/"
+        }, 
+      "last_updated": "795960041"
+    },
+    "6": {
+      "title": "titlefield",
+      "volume": "1",
+      "groups": {
+        "none": "/proxy/api/imgur/chapter/imgfield/"
+        }, 
+      "last_updated": "795960041"
+    },
+    "7": {
+      "title": "titlefield",
+      "volume": "1",
+      "groups": {
+        "none": "/proxy/api/imgur/chapter/imgfield/"
+        }, 
+      "last_updated": "795960041"
+    },
+    "8": {
+      "title": "titlefield",
+      "volume": "1",
+      "groups": {
+        "none": "/proxy/api/imgur/chapter/imgfield/"
+        }, 
+      "last_updated": "795960041"
+    },
+    "9": {
+      "title": "titlefield",
+      "volume": "1",
+      "groups": {
+        "none": "/proxy/api/imgur/chapter/imgfield/"
+        }, 
+      "last_updated": "795960041"
+    },
+    "10": {
+      "title": "titlefield",
+      "volume": "2",
+      "groups": {
+        "none": "/proxy/api/imgur/chapter/imgfield/"
+        }, 
+      "last_updated": "795960041"
+    },
+    "11": {
+      "title": "titlefield",
+      "volume": "2",
+      "groups": {
+        "none": "/proxy/api/imgur/chapter/imgfield/"
+        }, 
+      "last_updated": "795960041"
+    },
+    "12": {
+      "title": "titlefield",
+      "volume": "2",
+      "groups": {
+        "none": "/proxy/api/imgur/chapter/imgfield/"
+        }, 
+      "last_updated": "795960041"
+    },
+    "13": {
+      "title": "titlefield",
+      "volume": "2",
+      "groups": {
+        "none": "/proxy/api/imgur/chapter/imgfield/"
+        }, 
+      "last_updated": "795960041"
+    },
+    "14": {
+      "title": "titlefield",
+      "volume": "2",
+      "groups": {
+        "none": "/proxy/api/imgur/chapter/imgfield/"
+        }, 
+      "last_updated": "795960041"
+    },
+    "15": {
+      "title": "titlefield",
+      "volume": "2",
+      "groups": {
+        "none": "/proxy/api/imgur/chapter/imgfield/"
+        }, 
+      "last_updated": "795960041"
+    },
+    "16": {
+      "title": "titlefield",
+      "volume": "2",
+      "groups": {
+        "none": "/proxy/api/imgur/chapter/imgfield/"
+        }, 
+      "last_updated": "795960041"
+    },
+    "17": {
+      "title": "titlefield",
+      "volume": "2",
+      "groups": {
+        "none": "/proxy/api/imgur/chapter/imgfield/"
+        }, 
+      "last_updated": "795960041"
+    },
+    "18": {
+      "title": "titlefield",
+      "volume": "3",
+      "groups": {
+        "none": "/proxy/api/imgur/chapter/imgfield/"
+        }, 
+      "last_updated": "795960041"
+    },
+    "19": {
+      "title": "titlefield",
+      "volume": "3",
+      "groups": {
+        "none": "/proxy/api/imgur/chapter/imgfield/"
+        }, 
+      "last_updated": "795960041"
+    },
+    "20": {
+      "title": "titlefield",
+      "volume": "3",
+      "groups": {
+        "none": "/proxy/api/imgur/chapter/imgfield/"
+        }, 
+      "last_updated": "795960041"
+    },
+    "21": {
+      "title": "titlefield",
+      "volume": "3",
+      "groups": {
+        "none": "/proxy/api/imgur/chapter/imgfield/"
+        }, 
+      "last_updated": "795960041"
+    },
+    "22": {
+      "title": "titlefield",
+      "volume": "3",
+      "groups": {
+        "none": "/proxy/api/imgur/chapter/imgfield/"
+        }, 
+      "last_updated": "795960041"
+    },
+    "23": {
+      "title": "titlefield",
+      "volume": "3",
+      "groups": {
+        "none": "/proxy/api/imgur/chapter/imgfield/"
+        }, 
+      "last_updated": "795960041"
+    },
+    "24": {
+      "title": "titlefield",
+      "volume": "3",
+      "groups": {
+        "none": "/proxy/api/imgur/chapter/imgfield/"
+        }, 
+      "last_updated": "795960041"
+    },
+    "25": {
+      "title": "titlefield",
+      "volume": "3",
+      "groups": {
+        "none": "/proxy/api/imgur/chapter/imgfield/"
+        }, 
+      "last_updated": "795960041"
+    },
+    "26": {
+      "title": "titlefield",
+      "volume": "4",
+      "groups": {
+        "none": "/proxy/api/imgur/chapter/imgfield/"
+        }, 
+      "last_updated": "795960041"
+    },
+    "27": {
+      "title": "titlefield",
+      "volume": "4",
+      "groups": {
+        "none": "/proxy/api/imgur/chapter/imgfield/"
+        }, 
+      "last_updated": "795960041"
+    },
+    "28": {
+      "title": "titlefield",
+      "volume": "4",
+      "groups": {
+        "none": "/proxy/api/imgur/chapter/imgfield/"
+        }, 
+      "last_updated": "795960041"
+    },
+    "29": {
+      "title": "titlefield",
+      "volume": "4",
+      "groups": {
+        "none": "/proxy/api/imgur/chapter/imgfield/"
+        }, 
+      "last_updated": "795960041"
+    },
+    "30": {
+      "title": "titlefield",
+      "volume": "4",
+      "groups": {
+        "none": "/proxy/api/imgur/chapter/imgfield/"
+        }, 
+      "last_updated": "795960041"
+    },
+    "31": {
+      "title": "titlefield",
+      "volume": "4",
+      "groups": {
+        "none": "/proxy/api/imgur/chapter/imgfield/"
+        }, 
+      "last_updated": "795960041"
+    },
+    "32": {
+      "title": "titlefield",
+      "volume": "4",
+      "groups": {
+        "none": "/proxy/api/imgur/chapter/imgfield/"
+        }, 
+      "last_updated": "795960041"
+    },
+    "33": {
+      "title": "titlefield",
+      "volume": "4",
+      "groups": {
+        "none": "/proxy/api/imgur/chapter/imgfield/"
+        }, 
+      "last_updated": "795960041"
+    },
+    "34": {
+      "title": "titlefield",
+      "volume": "5",
+      "groups": {
+        "none": "/proxy/api/imgur/chapter/imgfield/"
+        }, 
+      "last_updated": "795960041"
+    },
+    "35": {
+      "title": "titlefield",
+      "volume": "5",
+      "groups": {
+        "none": "/proxy/api/imgur/chapter/imgfield/"
+        }, 
+      "last_updated": "795960041"
+    },
+    "36": {
+      "title": "titlefield",
+      "volume": "5",
+      "groups": {
+        "none": "/proxy/api/imgur/chapter/imgfield/"
+        }, 
+      "last_updated": "795960041"
+    },
+    "37": {
+      "title": "titlefield",
+      "volume": "5",
+      "groups": {
+        "none": "/proxy/api/imgur/chapter/imgfield/"
+        }, 
+      "last_updated": "795960041"
+    },
+    "38": {
+      "title": "titlefield",
+      "volume": "5",
+      "groups": {
+        "none": "/proxy/api/imgur/chapter/imgfield/"
+        }, 
+      "last_updated": "795960041"
+    },
+    "39": {
+      "title": "titlefield",
+      "volume": "5",
+      "groups": {
+        "none": "/proxy/api/imgur/chapter/imgfield/"
+        }, 
+      "last_updated": "795960041"
+    },
+    "40": {
+      "title": "titlefield",
+      "volume": "5",
+      "groups": {
+        "none": "/proxy/api/imgur/chapter/imgfield/"
+        }, 
+      "last_updated": "795960041"
+    },
+    "41": {
+      "title": "titlefield",
+      "volume": "5",
+      "groups": {
+        "none": "/proxy/api/imgur/chapter/imgfield/"
+        }, 
+      "last_updated": "795960041"
+    },
+    "42": {
+      "title": "titlefield",
+      "volume": "6",
+      "groups": {
+        "none": "/proxy/api/imgur/chapter/imgfield/"
+        }, 
+      "last_updated": "795960041"
+    },
+    "43": {
+      "title": "titlefield",
+      "volume": "6",
+      "groups": {
+        "none": "/proxy/api/imgur/chapter/imgfield/"
+        }, 
+      "last_updated": "795960041"
+    },
+    "44": {
+      "title": "titlefield",
+      "volume": "6",
+      "groups": {
+        "none": "/proxy/api/imgur/chapter/imgfield/"
+        }, 
+      "last_updated": "795960041"
+    },
+    "45": {
+      "title": "titlefield",
+      "volume": "6",
+      "groups": {
+        "none": "/proxy/api/imgur/chapter/imgfield/"
+        }, 
+      "last_updated": "795960041"
+    },
+    "46": {
+      "title": "titlefield",
+      "volume": "6",
+      "groups": {
+        "none": "/proxy/api/imgur/chapter/imgfield/"
+        }, 
+      "last_updated": "795960041"
+    },
+    "47": {
+      "title": "titlefield",
+      "volume": "6",
+      "groups": {
+        "none": "/proxy/api/imgur/chapter/imgfield/"
+        }, 
+      "last_updated": "795960041"
+    },
+    "48": {
+      "title": "titlefield",
+      "volume": "6",
+      "groups": {
+        "none": "/proxy/api/imgur/chapter/imgfield/"
+        }, 
+      "last_updated": "795960041"
+    },
+    "49": {
+      "title": "titlefield",
+      "volume": "6",
+      "groups": {
+        "none": "/proxy/api/imgur/chapter/imgfield/"
+        }, 
+      "last_updated": "795960041"
+    },
+    "50": {
+      "title": "titlefield",
+      "volume": "7",
+      "groups": {
+        "none": "/proxy/api/imgur/chapter/imgfield/"
+        }, 
+      "last_updated": "795960041"
+    },
+    "51": {
+      "title": "titlefield",
+      "volume": "7",
+      "groups": {
+        "none": "/proxy/api/imgur/chapter/imgfield/"
+        }, 
+      "last_updated": "795960041"
+    },
+    "52": {
+      "title": "titlefield",
+      "volume": "7",
+      "groups": {
+        "none": "/proxy/api/imgur/chapter/imgfield/"
+        }, 
+      "last_updated": "795960041"
+    },
+    "53": {
+      "title": "titlefield",
+      "volume": "7",
+      "groups": {
+        "none": "/proxy/api/imgur/chapter/imgfield/"
+        }, 
+      "last_updated": "795960041"
+    },
+    "54": {
+      "title": "titlefield",
+      "volume": "7",
+      "groups": {
+        "none": "/proxy/api/imgur/chapter/imgfield/"
+        }, 
+      "last_updated": "795960041"
+    },
+    "55": {
+      "title": "titlefield",
+      "volume": "7",
+      "groups": {
+        "none": "/proxy/api/imgur/chapter/imgfield/"
+        }, 
+      "last_updated": "795960041"
+    },
+    "56": {
+      "title": "titlefield",
+      "volume": "7",
+      "groups": {
+        "none": "/proxy/api/imgur/chapter/imgfield/"
+        }, 
+      "last_updated": "795960041"
+    },
+    "57": {
+      "title": "titlefield",
+      "volume": "7",
+      "groups": {
+        "none": "/proxy/api/imgur/chapter/imgfield/"
+        }, 
+      "last_updated": "795960041"
+    },
+    "58": {
+      "title": "titlefield",
+      "volume": "8",
+      "groups": {
+        "none": "/proxy/api/imgur/chapter/imgfield/"
+        }, 
+      "last_updated": "795960041"
+    },
+    "59": {
+      "title": "titlefield",
+      "volume": "8",
+      "groups": {
+        "none": "/proxy/api/imgur/chapter/imgfield/"
+        }, 
+      "last_updated": "795960041"
+    },
+    "60": {
+      "title": "titlefield",
+      "volume": "8",
+      "groups": {
+        "none": "/proxy/api/imgur/chapter/imgfield/"
+        }, 
+      "last_updated": "795960041"
+    },
+    "61": {
+      "title": "titlefield",
+      "volume": "8",
+      "groups": {
+        "none": "/proxy/api/imgur/chapter/imgfield/"
+        }, 
+      "last_updated": "795960041"
+    },
+    "62": {
+      "title": "titlefield",
+      "volume": "8",
+      "groups": {
+        "none": "/proxy/api/imgur/chapter/imgfield/"
+        }, 
+      "last_updated": "795960041"
+    },
+    "63": {
+      "title": "titlefield",
+      "volume": "8",
+      "groups": {
+        "none": "/proxy/api/imgur/chapter/imgfield/"
+        }, 
+      "last_updated": "795960041"
+    },
+    "64": {
+      "title": "titlefield",
+      "volume": "8",
+      "groups": {
+        "none": "/proxy/api/imgur/chapter/imgfield/"
+        }, 
+      "last_updated": "795960041"
     }
   }
 } 
