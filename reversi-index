@@ -308,6 +308,14 @@
         "r/Parasyte": "/proxy/api/mangadex/chapter/4305b48d-7dec-47cf-887a-0492b398258a/"
       },
       "last_updated": "1607772150"
+    },
+    "38": {
+      "title": "The Weakling",
+      "volume": "5",
+      "groups": {
+        "r/Parasyte": "/proxy/api/imgur/chapter/lVJilJg/"
+      },
+      "last_updated": "0"
     }
   }
 } 
