@@ -6,7 +6,7 @@
   "cover": "https://i.imgur.com/RLmRvlX.png",
   "chapters": {
     "1": {
-      "title": "titlefield",
+      "title": "Invasion",
       "volume": "1",
       "groups": {
         "none": "/proxy/api/imgur/chapter/imgfield/"
@@ -14,7 +14,7 @@
       "last_updated": "795960041"
     },
     "2": {
-      "title": "titlefield",
+      "title": "Wild Animal",
       "volume": "1",
       "groups": {
         "none": "/proxy/api/imgur/chapter/imgfield/"
@@ -22,7 +22,7 @@
       "last_updated": "795960041"
     },
     "3": {
-      "title": "titlefield",
+      "title": "Contact",
       "volume": "1",
       "groups": {
         "none": "/proxy/api/imgur/chapter/imgfield/"
@@ -30,7 +30,7 @@
       "last_updated": "795960041"
     },
     "4": {
-      "title": "titlefield",
+      "title": "Killer's Aura",
       "volume": "1",
       "groups": {
         "none": "/proxy/api/imgur/chapter/imgfield/"
@@ -38,7 +38,7 @@
       "last_updated": "795960041"
     },
     "5": {
-      "title": "titlefield",
+      "title": "Studyholic",
       "volume": "1",
       "groups": {
         "none": "/proxy/api/imgur/chapter/imgfield/"
@@ -46,7 +46,7 @@
       "last_updated": "795960041"
     },
     "6": {
-      "title": "titlefield",
+      "title": "Ryoko Tamiya",
       "volume": "1",
       "groups": {
         "none": "/proxy/api/imgur/chapter/imgfield/"
@@ -54,7 +54,7 @@
       "last_updated": "795960041"
     },
     "7": {
-      "title": "titlefield",
+      "title": "Attack",
       "volume": "1",
       "groups": {
         "none": "/proxy/api/imgur/chapter/imgfield/"
@@ -62,7 +62,7 @@
       "last_updated": "795960041"
     },
     "8": {
-      "title": "titlefield",
+      "title": "Species",
       "volume": "1",
       "groups": {
         "none": "/proxy/api/imgur/chapter/imgfield/"
@@ -70,7 +70,7 @@
       "last_updated": "795960041"
     },
     "9": {
-      "title": "titlefield",
+      "title": "Mother",
       "volume": "1",
       "groups": {
         "none": "/proxy/api/imgur/chapter/imgfield/"
@@ -78,7 +78,7 @@
       "last_updated": "795960041"
     },
     "10": {
-      "title": "titlefield",
+      "title": "Concern",
       "volume": "2",
       "groups": {
         "none": "/proxy/api/imgur/chapter/imgfield/"
@@ -86,7 +86,7 @@
       "last_updated": "795960041"
     },
     "11": {
-      "title": "titlefield",
+      "title": "Farewell",
       "volume": "2",
       "groups": {
         "none": "/proxy/api/imgur/chapter/imgfield/"
@@ -94,7 +94,7 @@
       "last_updated": "795960041"
     },
     "12": {
-      "title": "titlefield",
+      "title": "Hole in Chest",
       "volume": "2",
       "groups": {
         "none": "/proxy/api/imgur/chapter/imgfield/"
@@ -102,7 +102,7 @@
       "last_updated": "795960041"
     },
     "13": {
-      "title": "titlefield",
+      "title": "Absent Tears",
       "volume": "2",
       "groups": {
         "none": "/proxy/api/imgur/chapter/imgfield/"
@@ -110,7 +110,7 @@
       "last_updated": "795960041"
     },
     "14": {
-      "title": "titlefield",
+      "title": "Friends",
       "volume": "2",
       "groups": {
         "none": "/proxy/api/imgur/chapter/imgfield/"
@@ -118,7 +118,7 @@
       "last_updated": "795960041"
     },
     "15": {
-      "title": "titlefield",
+      "title": "The Missing 30%",
       "volume": "2",
       "groups": {
         "none": "/proxy/api/imgur/chapter/imgfield/"
@@ -126,7 +126,7 @@
       "last_updated": "795960041"
     },
     "16": {
-      "title": "titlefield",
+      "title": "Journey's End",
       "volume": "2",
       "groups": {
         "none": "/proxy/api/imgur/chapter/imgfield/"
@@ -134,7 +134,7 @@
       "last_updated": "795960041"
     },
     "17": {
-      "title": "titlefield",
+      "title": "Transformation",
       "volume": "2",
       "groups": {
         "none": "/proxy/api/imgur/chapter/imgfield/"
@@ -142,7 +142,7 @@
       "last_updated": "795960041"
     },
     "18": {
-      "title": "titlefield",
+      "title": "Humans",
       "volume": "3",
       "groups": {
         "none": "/proxy/api/imgur/chapter/imgfield/"
@@ -150,7 +150,7 @@
       "last_updated": "795960041"
     },
     "19": {
-      "title": "titlefield",
+      "title": "Hideo Shimada",
       "volume": "3",
       "groups": {
         "none": "/proxy/api/imgur/chapter/imgfield/"
@@ -158,7 +158,7 @@
       "last_updated": "795960041"
     },
     "20": {
-      "title": "titlefield",
+      "title": "Signs",
       "volume": "3",
       "groups": {
         "none": "/proxy/api/imgur/chapter/imgfield/"
@@ -166,7 +166,7 @@
       "last_updated": "795960041"
     },
     "21": {
-      "title": "titlefield",
+      "title": "Observation",
       "volume": "3",
       "groups": {
         "none": "/proxy/api/imgur/chapter/imgfield/"
@@ -174,7 +174,7 @@
       "last_updated": "795960041"
     },
     "22": {
-      "title": "titlefield",
+      "title": "Fissure",
       "volume": "3",
       "groups": {
         "none": "/proxy/api/imgur/chapter/imgfield/"
@@ -182,7 +182,7 @@
       "last_updated": "795960041"
     },
     "23": {
-      "title": "titlefield",
+      "title": "Confusion and Slaughter",
       "volume": "3",
       "groups": {
         "none": "/proxy/api/imgur/chapter/imgfield/"
@@ -190,7 +190,7 @@
       "last_updated": "795960041"
     },
     "24": {
-      "title": "titlefield",
+      "title": "One Blow",
       "volume": "3",
       "groups": {
         "none": "/proxy/api/imgur/chapter/imgfield/"
@@ -198,7 +198,7 @@
       "last_updated": "795960041"
     },
     "25": {
-      "title": "titlefield",
+      "title": "Ripples",
       "volume": "3",
       "groups": {
         "none": "/proxy/api/imgur/chapter/imgfield/"
@@ -206,7 +206,7 @@
       "last_updated": "795960041"
     },
     "26": {
-      "title": "titlefield",
+      "title": "A Girl's Dream",
       "volume": "4",
       "groups": {
         "none": "/proxy/api/imgur/chapter/imgfield/"
@@ -214,7 +214,7 @@
       "last_updated": "795960041"
     },
     "27": {
-      "title": "titlefield",
+      "title": "Maneuvers",
       "volume": "4",
       "groups": {
         "none": "/proxy/api/imgur/chapter/imgfield/"
@@ -222,7 +222,7 @@
       "last_updated": "795960041"
     },
     "28": {
-      "title": "titlefield",
+      "title": "A Calm Day",
       "volume": "4",
       "groups": {
         "none": "/proxy/api/imgur/chapter/imgfield/"
@@ -230,7 +230,7 @@
       "last_updated": "795960041"
     },
     "29": {
-      "title": "titlefield",
+      "title": "Kana",
       "volume": "4",
       "groups": {
         "none": "/proxy/api/imgur/chapter/imgfield/"
@@ -238,7 +238,7 @@
       "last_updated": "795960041"
     },
     "30": {
-      "title": "titlefield",
+      "title": "Power",
       "volume": "4",
       "groups": {
         "none": "/proxy/api/imgur/chapter/imgfield/"
@@ -246,7 +246,7 @@
       "last_updated": "795960041"
     },
     "31": {
-      "title": "titlefield",
+      "title": "Red Tears",
       "volume": "4",
       "groups": {
         "none": "/proxy/api/imgur/chapter/imgfield/"
@@ -254,7 +254,7 @@
       "last_updated": "795960041"
     },
     "32": {
-      "title": "titlefield",
+      "title": "Reiko Tamura",
       "volume": "4",
       "groups": {
         "none": "/proxy/api/imgur/chapter/imgfield/"
@@ -262,7 +262,7 @@
       "last_updated": "795960041"
     },
     "33": {
-      "title": "titlefield",
+      "title": "Witness",
       "volume": "4",
       "groups": {
         "none": "/proxy/api/imgur/chapter/imgfield/"
@@ -270,7 +270,7 @@
       "last_updated": "795960041"
     },
     "34": {
-      "title": "titlefield",
+      "title": "Iron and Glass",
       "volume": "5",
       "groups": {
         "none": "/proxy/api/imgur/chapter/imgfield/"
@@ -278,7 +278,7 @@
       "last_updated": "795960041"
     },
     "35": {
-      "title": "titlefield",
+      "title": "Indifferently Named",
       "volume": "5",
       "groups": {
         "none": "/proxy/api/imgur/chapter/imgfield/"
@@ -286,7 +286,7 @@
       "last_updated": "795960041"
     },
     "36": {
-      "title": "titlefield",
+      "title": "The Devil's Face",
       "volume": "5",
       "groups": {
         "none": "/proxy/api/imgur/chapter/imgfield/"
@@ -294,7 +294,7 @@
       "last_updated": "795960041"
     },
     "37": {
-      "title": "titlefield",
+      "title": "Dining Room",
       "volume": "5",
       "groups": {
         "none": "/proxy/api/imgur/chapter/imgfield/"
@@ -302,7 +302,7 @@
       "last_updated": "795960041"
     },
     "38": {
-      "title": "titlefield",
+      "title": "Face-Off",
       "volume": "5",
       "groups": {
         "none": "/proxy/api/imgur/chapter/imgfield/"
@@ -310,7 +310,7 @@
       "last_updated": "795960041"
     },
     "39": {
-      "title": "titlefield",
+      "title": "Assassin",
       "volume": "5",
       "groups": {
         "none": "/proxy/api/imgur/chapter/imgfield/"
@@ -318,7 +318,7 @@
       "last_updated": "795960041"
     },
     "40": {
-      "title": "titlefield",
+      "title": "Command Tower",
       "volume": "5",
       "groups": {
         "none": "/proxy/api/imgur/chapter/imgfield/"
@@ -326,7 +326,7 @@
       "last_updated": "795960041"
     },
     "41": {
-      "title": "titlefield",
+      "title": "Final Form",
       "volume": "5",
       "groups": {
         "none": "/proxy/api/imgur/chapter/imgfield/"
@@ -334,7 +334,7 @@
       "last_updated": "795960041"
     },
     "42": {
-      "title": "titlefield",
+      "title": "A Little Family 1",
       "volume": "6",
       "groups": {
         "none": "/proxy/api/imgur/chapter/imgfield/"
@@ -342,7 +342,7 @@
       "last_updated": "795960041"
     },
     "43": {
-      "title": "titlefield",
+      "title": "A Little Family 2",
       "volume": "6",
       "groups": {
         "none": "/proxy/api/imgur/chapter/imgfield/"
@@ -350,7 +350,7 @@
       "last_updated": "795960041"
     },
     "44": {
-      "title": "titlefield",
+      "title": "Impetuosity",
       "volume": "6",
       "groups": {
         "none": "/proxy/api/imgur/chapter/imgfield/"
@@ -358,7 +358,7 @@
       "last_updated": "795960041"
     },
     "45": {
-      "title": "titlefield",
+      "title": "Cold-Blooded Battle",
       "volume": "6",
       "groups": {
         "none": "/proxy/api/imgur/chapter/imgfield/"
@@ -366,7 +366,7 @@
       "last_updated": "795960041"
     },
     "46": {
-      "title": "titlefield",
+      "title": "The Park",
       "volume": "6",
       "groups": {
         "none": "/proxy/api/imgur/chapter/imgfield/"
@@ -374,7 +374,7 @@
       "last_updated": "795960041"
     },
     "47": {
-      "title": "titlefield",
+      "title": "Some Child's Parent",
       "volume": "6",
       "groups": {
         "none": "/proxy/api/imgur/chapter/imgfield/"
@@ -382,7 +382,7 @@
       "last_updated": "795960041"
     },
     "48": {
-      "title": "titlefield",
+      "title": "Homecoming",
       "volume": "6",
       "groups": {
         "none": "/proxy/api/imgur/chapter/imgfield/"
@@ -390,7 +390,7 @@
       "last_updated": "795960041"
     },
     "49": {
-      "title": "titlefield",
+      "title": "Staring Experiment",
       "volume": "6",
       "groups": {
         "none": "/proxy/api/imgur/chapter/imgfield/"
@@ -398,7 +398,7 @@
       "last_updated": "795960041"
     },
     "50": {
-      "title": "titlefield",
+      "title": "Weapon",
       "volume": "7",
       "groups": {
         "none": "/proxy/api/imgur/chapter/imgfield/"
@@ -406,7 +406,7 @@
       "last_updated": "795960041"
     },
     "51": {
-      "title": "titlefield",
+      "title": "Bearing",
       "volume": "7",
       "groups": {
         "none": "/proxy/api/imgur/chapter/imgfield/"
@@ -414,7 +414,7 @@
       "last_updated": "795960041"
     },
     "52": {
-      "title": "titlefield",
+      "title": "Surrounded",
       "volume": "7",
       "groups": {
         "none": "/proxy/api/imgur/chapter/imgfield/"
@@ -422,7 +422,7 @@
       "last_updated": "795960041"
     },
     "53": {
-      "title": "titlefield",
+      "title": "Fuse",
       "volume": "7",
       "groups": {
         "none": "/proxy/api/imgur/chapter/imgfield/"
@@ -430,7 +430,7 @@
       "last_updated": "795960041"
     },
     "54": {
-      "title": "titlefield",
+      "title": "Pacification",
       "volume": "7",
       "groups": {
         "none": "/proxy/api/imgur/chapter/imgfield/"
@@ -438,7 +438,7 @@
       "last_updated": "795960041"
     },
     "55": {
-      "title": "titlefield",
+      "title": "Parasyte",
       "volume": "7",
       "groups": {
         "none": "/proxy/api/imgur/chapter/imgfield/"
@@ -446,7 +446,7 @@
       "last_updated": "795960041"
     },
     "56": {
-      "title": "titlefield",
+      "title": "Head",
       "volume": "7",
       "groups": {
         "none": "/proxy/api/imgur/chapter/imgfield/"
@@ -454,7 +454,7 @@
       "last_updated": "795960041"
     },
     "57": {
-      "title": "titlefield",
+      "title": "Hero",
       "volume": "7",
       "groups": {
         "none": "/proxy/api/imgur/chapter/imgfield/"
@@ -462,7 +462,7 @@
       "last_updated": "795960041"
     },
     "58": {
-      "title": "titlefield",
+      "title": "Migi",
       "volume": "8",
       "groups": {
         "none": "/proxy/api/imgur/chapter/imgfield/"
@@ -470,7 +470,7 @@
       "last_updated": "795960041"
     },
     "59": {
-      "title": "titlefield",
+      "title": "Old Woman",
       "volume": "8",
       "groups": {
         "none": "/proxy/api/imgur/chapter/imgfield/"
@@ -478,7 +478,7 @@
       "last_updated": "795960041"
     },
     "60": {
-      "title": "titlefield",
+      "title": "Resolve",
       "volume": "8",
       "groups": {
         "none": "/proxy/api/imgur/chapter/imgfield/"
@@ -486,7 +486,7 @@
       "last_updated": "795960041"
     },
     "61": {
-      "title": "titlefield",
+      "title": "Sinister Form",
       "volume": "8",
       "groups": {
         "none": "/proxy/api/imgur/chapter/imgfield/"
@@ -494,7 +494,7 @@
       "last_updated": "795960041"
     },
     "62": {
-      "title": "titlefield",
+      "title": "Morning",
       "volume": "8",
       "groups": {
         "none": "/proxy/api/imgur/chapter/imgfield/"
@@ -502,7 +502,7 @@
       "last_updated": "795960041"
     },
     "63": {
-      "title": "titlefield",
+      "title": "Return to Normal",
       "volume": "8",
       "groups": {
         "none": "/proxy/api/imgur/chapter/imgfield/"
@@ -510,7 +510,7 @@
       "last_updated": "795960041"
     },
     "64": {
-      "title": "titlefield",
+      "title": "You",
       "volume": "8",
       "groups": {
         "none": "/proxy/api/imgur/chapter/imgfield/"
